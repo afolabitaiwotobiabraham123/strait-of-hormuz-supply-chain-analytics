@@ -227,7 +227,9 @@ The final KPIs will depend on the availability, quality, and level of detail of 
 ## Repository Structure
 
 The repository will be organized into dedicated directories for data storage, data quality assessment, data preparation, SQL analysis, Python workflows, Power BI reporting, and project documentation.
+
 strait-of-hormuz-supply-chain-analytics/
+
 │
 ├── README.md
 │
